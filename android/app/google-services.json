@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498115998970",
+    "project_id": "chat-1-8388d",
+    "storage_bucket": "chat-1-8388d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498115998970:android:ae3a7abbdf969bfb064543",
+        "android_client_info": {
+          "package_name": "com.example.brotherzap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498115998970-giui4480ihmr2pd3nqc3me0k9amqtev9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brotherzap",
+            "certificate_hash": "4c49f87bd113ebcd7f85e5027666d2bc3875042d"
+          }
+        },
+        {
+          "client_id": "498115998970-7g0nkidhvivvhg5g3nb0fa51cq63fttd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9_zxlADhUFQVfJ-4Bi9dlgh-C1V9Oc9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498115998970-7g0nkidhvivvhg5g3nb0fa51cq63fttd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
